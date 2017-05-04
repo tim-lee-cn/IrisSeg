@@ -1,0 +1,4 @@
+python GrabCutIris_LevelSets_Ellipse.py EyeImages/04327d1305.tiff
+ 
+python GrabCutIris_LevelSets_Ellipse.py EyeImages/02463d1928.tiff
+
