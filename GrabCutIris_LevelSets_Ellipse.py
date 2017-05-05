@@ -3,7 +3,7 @@ import cv2
 import sys
 import time
 import morphsnakes
-from cv2 import cv
+#from cv2 import cv
 from scipy.misc import imread
 from matplotlib import pyplot as ppl
 import urllib2
